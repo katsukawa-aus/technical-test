@@ -1,0 +1,10 @@
+Please enter a string
+aab
+
+Palindrome partitions for aab:
+a a b
+aa b
+
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\PalindromeProject.exe (process 17124) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
