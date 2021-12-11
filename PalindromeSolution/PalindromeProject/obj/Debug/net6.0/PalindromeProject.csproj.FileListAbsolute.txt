@@ -1,0 +1,15 @@
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\PalindromeProject.exe
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\PalindromeProject.deps.json
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\PalindromeProject.runtimeconfig.json
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\PalindromeProject.dll
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\ref\PalindromeProject.dll
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\bin\Debug\net6.0\PalindromeProject.pdb
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.csproj.AssemblyReference.cache
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.AssemblyInfoInputs.cache
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.AssemblyInfo.cs
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.csproj.CoreCompileInputs.cache
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.dll
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\ref\PalindromeProject.dll
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.pdb
+C:\Users\masaki\github\technical-test\PalindromeSolution\PalindromeProject\obj\Debug\net6.0\PalindromeProject.genruntimeconfig.cache
